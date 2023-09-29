@@ -1,0 +1,11 @@
+D:\Codes\codes\MedgAPI\MedgAPI\obj\Release\net6.0\PubTmp\Out\MedgAPI.exe
+D:\Codes\codes\MedgAPI\MedgAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Codes\codes\MedgAPI\MedgAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Codes\codes\MedgAPI\MedgAPI\obj\Release\net6.0\PubTmp\Out\MedgAPI.dll
+D:\Codes\codes\MedgAPI\MedgAPI\obj\Release\net6.0\PubTmp\Out\MedgAPI.deps.json
+D:\Codes\codes\MedgAPI\MedgAPI\obj\Release\net6.0\PubTmp\Out\MedgAPI.runtimeconfig.json
+D:\Codes\codes\MedgAPI\MedgAPI\obj\Release\net6.0\PubTmp\Out\MedgAPI.pdb
+D:\Codes\codes\MedgAPI\MedgAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Codes\codes\MedgAPI\MedgAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Codes\codes\MedgAPI\MedgAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Codes\codes\MedgAPI\MedgAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
